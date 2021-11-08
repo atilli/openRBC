@@ -1,5 +1,5 @@
 # openRBC
-My future project for ETCS level 3 (moving block) example
+My future project for ETCS level 3 (moving block) example code for Radio Block Centre (RBC)
 
 # TODO
 
