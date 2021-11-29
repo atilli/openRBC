@@ -12,5 +12,5 @@ This project is still on todo list, hopefylly have some time to work on this
 - IXL-if (simulated)
 - OBU-if (simulated)
 - MA calculation
-- Comparisons of MAs (2oo3)
+- Comparisons of MAs (2oo3) , with a sparate SW voter. (Coded control flows with crosscheck, ala Siemens DS3)  
  
